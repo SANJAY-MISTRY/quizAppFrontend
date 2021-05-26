@@ -1,0 +1,90 @@
+body{
+    background-color: #dddddd;
+}
+.auth-card{
+    padding:20px;
+    text-align: center;
+    max-width: 400px;
+    margin: 10px auto;
+}
+.loginBox{
+    border: 2px solid gold;
+    border-radius: 10px;
+}
+
+.mycard{
+    margin-top: 30px;
+}
+
+.link{
+    color: #FFF;
+  }
+  .headingText h5{
+    font-size: 25px;
+    color: brown;
+  }
+  .topicStyle{
+    border: 5px solid gold;
+    padding: 15px;
+    background: lightgreen;
+    border-radius: 20px;
+  }
+  .topicStyle h6{
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .landing{
+    position: relative;
+    height: 100vh;
+    /* background: url('https://besthqwallpapers.com/Uploads/3-2-2018/39426/question-sign-4k-3d-art-creative-concept.jpg') no-repeat center center/cover; */
+    background:linear-gradient(red, blue)
+  }
+  
+  .Nav-trans{
+      background: transparent;
+  }
+
+  /*Profile Page*/
+
+  .profile-pic{
+    width:250px;
+    height:250px;
+    border-radius:6px;
+    margin:25px
+  }
+
+  .profile-div{
+    display:flex;
+    width:80%;
+    margin:20px auto;
+    padding:8px auto
+}
+
+
+.topic-div{
+    margin:20px auto;
+    box-sizing:border-box;
+    border:5px solid black;
+    border-radius:16px;
+    width:80%;
+    height:300px
+}
+
+.topic-head{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+    flex-wrap:wrap
+}
+
+.topic-heading{
+    text-align:center;
+    font-family:'Montserrat Subrayada', sans-serif;
+    text-decoration:underline
+}
+
+.tablec td,th{
+    width: 270px;
+    text-align: center;
+}
